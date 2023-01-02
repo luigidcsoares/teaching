@@ -1,0 +1,3 @@
+[submodule "ufmg/pds1"]
+	path = ufmg/pds1
+	url = git@github.com:luigidcsoares/teaching-dcc203-pds1.git
