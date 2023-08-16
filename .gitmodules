@@ -1,3 +1,6 @@
 [submodule "ufmg/pds1"]
 	path = ufmg/pds1
 	url = git@github.com:luigidcsoares/teaching-dcc203-pds1.git
+[submodule "ufmg/pds2"]
+	path = ufmg/pds2
+	url = git@github.com:luigidcsoares/teaching-dcc204-pds2.git
